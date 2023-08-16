@@ -4,3 +4,10 @@ torch
 torchvision
 scikit-learn
 pillow
+python-dotenv
+clarifai-grpc
+matplotlib
+openai
+tqdm
+chromadb
+pinecone-client
